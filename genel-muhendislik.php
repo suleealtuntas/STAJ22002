@@ -1,5 +1,5 @@
 <?php
-include 'globals.php';  // Global değişkenleri dahil et
+include 'globals.php';  
 ?>
 <!DOCTYPE html>
 <html lang="tr">
