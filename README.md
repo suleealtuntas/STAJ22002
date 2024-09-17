@@ -1,4 +1,4 @@
-#THS ÖLÇÜM FORMU
+# THS ÖLÇÜM FORMU
 
 Bu proje, THS(Teknoloji Hazırlık Seviyesi) Ölçüm Formu'nun bir web uygulaması olarak geliştirilmiştir. THS seviyelerini belirlemek için kullanılan bir form aracılığıyla, kullanıcılar proje durumlarını değerlendirerek ilgili THS seviyesine ulaşabilirler. Uygulama, belirli kriterler ve tamamlanma oranlarına göre teknoloji hazırlık seviyesini hesaplar.
 
