@@ -4,17 +4,25 @@ Bu proje, THS(Teknoloji Hazırlık Seviyesi) Ölçüm Formu'nun bir web uygulama
 
 # Özellikler
 
-## Teknoloji Türü Seçimi: Genel Mühendislik ve Yazılım olmak üzere iki farklı teknoloji türü seçeneği sunar. Seçilen teknolojiye göre form içeriği değişir.
-## THS Seviyesi Belirleme: Kullanıcı, belirli kriterlere göre bir proje için THS seviyesini (1-9 arası) belirler.
-## Tamamlanma Durumu: Her soru için tamamlanma durumu  6 farklı seçenek ile değerlendirilir. Tamamlanma yüzdesi bu duruma göre hesaplanır.
-## Sonuç Ekranı: Kullanıcının verdiği yanıtlara göre proje için bir THS seviyesi hesaplanır ve sonuç detaylı şekilde gösterilir.
-## Veri Yönetimi: Sonuçlar kaydedilebilir, güncellenebilir ve silinebilir. Ayrıca kayıtlı sonuçlar tablo formatında görüntülenir.
-## Buton Durumu: Hesaplama sonrası tamamlanma oranına göre, "Bir Sonraki Seviyeye Geç" veya "Seviye Göster" butonları aktif hale gelir.
+## Teknoloji Türü Seçimi: 
+Genel Mühendislik ve Yazılım olmak üzere iki farklı teknoloji türü seçeneği sunar. Seçilen teknolojiye göre form içeriği değişir.
+## THS Seviyesi Belirleme: 
+Kullanıcı, belirli kriterlere göre bir proje için THS seviyesini (1-9 arası) belirler.
+## Tamamlanma Durumu: 
+Her soru için tamamlanma durumu  6 farklı seçenek ile değerlendirilir. Tamamlanma yüzdesi bu duruma göre hesaplanır.
+## Sonuç Ekranı: 
+Kullanıcının verdiği yanıtlara göre proje için bir THS seviyesi hesaplanır ve sonuç detaylı şekilde gösterilir.
+## Veri Yönetimi: 
+Sonuçlar kaydedilebilir, güncellenebilir ve silinebilir. Ayrıca kayıtlı sonuçlar tablo formatında görüntülenir.
+## Buton Durumu: 
+Hesaplama sonrası tamamlanma oranına göre, "Bir Sonraki Seviyeye Geç" veya "Seviye Göster" butonları aktif hale gelir.
 
 # Kullanılan Teknolojiler
 
-## Frontend: HTML, CSS, JavaScript
-## Backend: PHP
+## Frontend: 
+HTML, CSS, JavaScript
+## Backend: 
+PHP
 
 # İyileştirme Önerileri
 
