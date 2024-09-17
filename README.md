@@ -1,8 +1,8 @@
-THS ÖLÇÜM FORMU
+#THS ÖLÇÜM FORMU
 
 Bu proje, THS(Teknoloji Hazırlık Seviyesi) Ölçüm Formu'nun bir web uygulaması olarak geliştirilmiştir. THS seviyelerini belirlemek için kullanılan bir form aracılığıyla, kullanıcılar proje durumlarını değerlendirerek ilgili THS seviyesine ulaşabilirler. Uygulama, belirli kriterler ve tamamlanma oranlarına göre teknoloji hazırlık seviyesini hesaplar.
 
-Özellikler
+#Özellikler
 
 Teknoloji Türü Seçimi: Genel Mühendislik ve Yazılım olmak üzere iki farklı teknoloji türü seçeneği sunar. Seçilen teknolojiye göre form içeriği değişir.
 THS Seviyesi Belirleme: Kullanıcı, belirli kriterlere göre bir proje için THS seviyesini (1-9 arası) belirler.
@@ -11,12 +11,12 @@ Sonuç Ekranı: Kullanıcının verdiği yanıtlara göre proje için bir THS se
 Veri Yönetimi: Sonuçlar kaydedilebilir, güncellenebilir ve silinebilir. Ayrıca kayıtlı sonuçlar tablo formatında görüntülenir.
 Buton Durumu: Hesaplama sonrası tamamlanma oranına göre, "Bir Sonraki Seviyeye Geç" veya "Seviye Göster" butonları aktif hale gelir.
 
-Kullanılan Teknolojiler
+#Kullanılan Teknolojiler
 
 Frontend: HTML, CSS, JavaScript
 Backend: PHP
 
-İyileştirme Önerileri
+#İyileştirme Önerileri
 
 Projenin daha kullanışlı ve kullanıcı dostu hale getirilmesi için aşağıdaki iyileştirmeler planlanmaktadır:
 
@@ -28,5 +28,5 @@ Kullanıcı sonuç tablosunda bir satırı seçip Güncelle butonuna tıkladığ
 Kullanıcı, kaldığı yerden formu doldurmaya ve işaretlemeye devam edebilecek. Bu sayede yeniden form doldurmaya gerek kalmadan ilerleyebilecek.
 Bu iyileştirmeler, kullanıcıların proje değerlendirme sürecini daha kolay ve verimli hale getirmeyi amaçlamaktadır. Proje ilerledikçe bu öneriler üzerinde çalışılacak ve geliştirilecektir.
 
-CANLI ÖNİZLEME:
+#CANLI ÖNİZLEME:
 Projeyi canlı olarak şu adreste görüntüleyebilirsiniz: http://tusasitesi.great-site.net/
